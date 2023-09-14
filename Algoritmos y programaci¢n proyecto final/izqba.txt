@@ -1,0 +1,12 @@
+Has elegido la opcion de irse en la bicicleta...
+
+Mientras caperucita iba en el trayecto no se dio cuenta de que habia una
+piedra puntiaguda en el suelo y se revienta la llanta delantera de la 
+bicicleta y ella se encuentra en la mitad del trayecto.
+
+Que deberia hacer caperucita?
+
+a) Ir a llevarla a reparar al instante
+b) Reparar la bicicleta mas tarde y continuar con su camino
+
+Elige el inciso que deseas (a o b):

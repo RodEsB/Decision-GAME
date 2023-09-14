@@ -1,0 +1,11 @@
+Has decidido que caperucita regrese a su casa para poder sanar...
+
+Afortunadamente justo cuando estaba regresando a su casa se encontro con un
+amable senora que le ofrece ayudarla y acompanarla hasta la casa de su abuelita
+
+Deberia de aceptar la oferta de la senora?
+
+a) Si, suena una buena idea
+b) No, prefieres regresar por tu cuenta
+
+Elige el inciso que deseas (a, b o c):

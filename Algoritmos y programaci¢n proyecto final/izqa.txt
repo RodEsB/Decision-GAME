@@ -1,0 +1,12 @@
+Has elegido la opcion del burrito...
+
+Al salir de la tienda, caperucita presenta un malestar estomacal y empieza a dudar sobre
+seguir con su camino a la casa de su abuelita o regresar a su casa
+
+Que le recomiendas a caperucita que haga?
+
+a) Regresar a su casa
+b) Seguir con el camino a la casa de su abuelita
+
+
+Elige el inciso que deseas (a o b):

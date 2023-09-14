@@ -1,0 +1,20 @@
+Erase una vez una ninita que lucia una hermosa capa de color rojo y la usaba muy a menudo, 
+todos la llamaban Caperucita Roja. Un dia, la mama de Caperucita Roja la llamo y le dijo:
+
+-La abuelita no se encuentra bien asi que debes de llevarle unos medicamentos que 
+te voy a dar para que se los puedas entregar.
+
+Caperucita acepto lo que su mama le pidio, asi que decidio partir a la casa de su abuelita
+
+En el rumbo hacia la casa de su abuelita se encontro con tres caminos:
+
+
+a) El primer camino que esta a la IZQUIERDA es ir a la tienda a comer algo ya que tiene mucha hambre
+
+b) El segundo camino que esta en el CENTRO es adentrarse al bosque para dirigirse a la casa de su abuelita
+
+c) El tercer camino que esta a la DERECHA es tomar un camino mas corto usando un taxi
+
+Que es lo que deseas hacer?: 
+
+Elige el inciso que deseas (a, b o c):

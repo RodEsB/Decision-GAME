@@ -1,0 +1,12 @@
+Has elegido tomar otro camino...
+
+Todo iba bien en este nuevo camino, el unico gran detalle es que el camino es
+mas largo de lo que caperucita esperaba, el taxista le comenta a caperucita que
+hay otro tramo mas rapido para llegar a la casa de la abuelita.
+
+Deberia aceptar caperucita ir al tramo mas rapido?
+
+a) Si, suena que llegara mucho mas rapido
+b) No, hay que continuar por el mismo camino
+
+Elige el inciso que deseas (a o b):

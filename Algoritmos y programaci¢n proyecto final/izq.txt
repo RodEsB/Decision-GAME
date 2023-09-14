@@ -1,0 +1,11 @@
+Has decidido que caperucita vaya a la tienda a comer algo...
+
+Caperucita se encuentra dos opciones de comida, la primera es un burrito con papas a la francesa
+y la segunda un sandwich de vegetales y carnes frias
+
+Cual consideras que sea el mejor alimento para caperucita?:
+
+a) El burrito
+b) El sandwich
+
+Elige el inciso que deseas (a o b):

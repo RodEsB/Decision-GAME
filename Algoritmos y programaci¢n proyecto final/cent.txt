@@ -1,0 +1,13 @@
+Has decidido que caperucita se adentrarse al bosque para dirigirse a la casa de su abuelita...
+
+Al adentrarse se encuentra con dos caminos, uno que se encuentra a la IZQUIERDA
+parece ser que esta mas arreglado ya que esta pavimentado y es mas facil de cruzar, el unico problema 
+es que es mucho mas tardio que el camino de la DERECHA, este no esta pavimentado y la mayor
+parte del tramo es terraceria pero es mucho mas rapido.
+
+Que camino deberia tomar caperucita?
+
+a) El de la izquierda
+b) El de la derecha
+
+Elige el inciso que deseas (a o b):

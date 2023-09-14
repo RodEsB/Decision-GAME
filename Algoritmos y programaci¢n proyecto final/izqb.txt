@@ -1,0 +1,12 @@
+Has elegido la opcion del sandwich...
+
+Despues de disfrutar de ese sandwich y saciar el hambre que tenia, decide 
+regresar a su trayecto original, se presentan dos opciones en las que puede llegar
+a la casa de su abuelita, usando una bicicleta rentada o irse caminando.
+
+Que deberia hacer caperucita?
+
+a) Irse en la bicicleta rentada
+b) Irse caminando
+
+Elige el inciso que deseas (a o b):

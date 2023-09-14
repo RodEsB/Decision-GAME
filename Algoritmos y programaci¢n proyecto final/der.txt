@@ -1,0 +1,12 @@
+Has decidido que caperucita tome un camino mas corto usando un taxi...
+
+El camino se ve bastante tranquilo y caperucita disfruta mucho del recorrido,
+de repente un lobo se pone en medio de la carretera y obliga al taxista a frenar
+causando que sea imposible seguir con su camino.
+
+Que deberia hacer caperucita y el taxista?
+
+a) Avisar a las autoridades correspondientes
+b) Tomar otro camino
+
+Elige el inciso que deseas (a o b):

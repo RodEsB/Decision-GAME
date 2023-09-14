@@ -1,0 +1,12 @@
+Has decidido irse caminando...
+
+Durante el trayecto se encuentra una persona realmente enferma, con la
+misma enfermedad que padece su abuelita y le pide que si le puede dar la medicina
+que trae con ella, si se la da no quedaria nada para su abuelita. 
+
+Que deberia hacer?
+
+a) Darle la medicina a la persona desconocida
+b) Guardarte la medicina para la abuelita
+
+Elige el inciso que deseas (a o b):

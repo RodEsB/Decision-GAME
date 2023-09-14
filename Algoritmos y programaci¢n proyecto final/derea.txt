@@ -1,0 +1,14 @@
+Has elegido avisar a las autoridades correspondientes...
+
+Despues de pasar un corto tiempo de espera el taxista y caperucita logran
+pasar por el trayecto original y se dirigen a la casa de la abuelita, todo iba
+bien hasta que un gran hoyo que se encontraba en la carretera provoca que
+la llanta del taxi se reventara, el taxista le dice a caperucita que si ella lo
+desea le puede ayudar a cambiar la llanta o pedir otro taxi para que no espere tanto.
+
+Que deberia hacer caperucita?
+
+a) Ayudar al taxista a cambiar la llanta
+b) Pedir otro taxi
+
+Elige el inciso que deseas (a o b):
